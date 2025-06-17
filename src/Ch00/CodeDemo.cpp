@@ -3,6 +3,7 @@
 // Using the exercise files on GitHub, by Eduardo Corpeño 
 
 #include <iostream>
+using namespace std;
 
 int main(){
     float num_1, num_2, result;
